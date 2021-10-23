@@ -1,0 +1,7 @@
+Paste it under the <head> tag.
+
+<script src="./removeBanner.js"></script>.
+
+subscribe hakistan for more videos.
+
+ns01.000webhost.com, ns02.000webhost.com
